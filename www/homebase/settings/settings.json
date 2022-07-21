@@ -1,0 +1,25 @@
+{
+  "metadata": {},
+  "tiles": [
+    {
+      "name": "Lorem ipsum",
+      "description": "consectetur at, iaculis interdum",
+      "href": "example.com"
+    },
+    {
+      "name": "Sed tempor",
+      "description": "nulla dictum. Proin ante tortor",
+      "href": ":8080"
+    },
+    {
+      "name": "Mauris purus",
+      "description": "enim lacinia sapien malesuada",
+      "href": ":3000/test"
+    },
+    {
+      "name": "Elementum",
+      "description": "diam eget blandit congue",
+      "href": "https://google.com"
+    }
+  ]
+}
